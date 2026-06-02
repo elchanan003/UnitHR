@@ -1,0 +1,19 @@
+[
+{
+"id" : 1,
+"name" : "Avi",
+"status" : false
+},
+
+{
+"id" : 2,
+"name" : "Mayaan",
+"status" : true
+},
+
+{
+"id" : 3,
+"name" : "Doron",
+"status" : true
+}
+]
